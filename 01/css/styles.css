@@ -40,3 +40,17 @@ body {
   color: #c0bebe;
   text-decoration: none;
 }
+
+.jumbotron {
+  margin-top: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #333;
+  color: #fff;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.jumbotron__text {
+  margin-top: 1.5rem;
+}
